@@ -1,0 +1,18 @@
+/*Richard Boamah*/
+header {background: purple;
+        color: white }
+
+nav {background: blue;}
+
+nav a {text-decoration: none;
+    color: white };
+
+ul { background: gray !important;}
+
+#address { font-family: Arial; 
+    color: red;}
+
+.blueStyle {background: orange;}
+
+footer {color:lime;}
+
