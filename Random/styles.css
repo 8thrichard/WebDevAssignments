@@ -1,0 +1,30 @@
+.btn1 {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color:white ;
+    background-color: #5850ec;
+    border: none ;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
+.btn2 {
+    padding-left: 88px;
+    padding-right: 88px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color:black ;
+    border-radius: 5px;
+    border-color:#cbd5e1 ;
+    background-color: white;
+    font-weight: bold;
+}
+
+
+.btn1:hover {
+    cursor: pointer ;
+    background-color: blue;
+}
