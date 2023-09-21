@@ -1,0 +1,24 @@
+/*HandsOn 4.6*/
+/*Richard Boamah*/
+
+body {background-color: #f7f7f7;
+    color: #191970; }
+
+h1 {
+    background-color: #833B83;
+    color: #F9F0FE;
+}
+
+h2 {
+    color: #ad77c3;
+}
+
+nav {background-color: #EAEAF2;}
+
+footer {
+    color: #666666;
+}
+
+.companyname {
+    color: #833B83;
+}

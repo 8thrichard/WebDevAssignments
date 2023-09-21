@@ -28,3 +28,6 @@
     cursor: pointer ;
     background-color: blue;
 }
+
+.btn1:active {
+    cursor: progress; }
