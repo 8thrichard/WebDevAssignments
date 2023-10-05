@@ -1,16 +1,23 @@
-/*Your Name*/
-/*Chapter 4 Pacfic Trails*/
+/*Richard Boamah*/
+/*Chapter 5 Pacfic Trails*/
 
 
 body {  background-color: #FFFFFF;
 		color: #555555; 
+        font-family: Arial, Helvetica, sans-serif;
 }
 
 header { background-color: #002171;
          color: #FFFFFF;
+         background-image: url(/Chapter4_starterForCh5/sunset.jpg);
+         background-position: right;
+         background-repeat: no-repeat;
+         line-height: 400%;
+         text-indent: 1em;
 }
 
-nav { background-color: #BBDEFB; }
+nav { background-color: #BBDEFB;
+    text-decoration: none ; }
 
 h1  { margin-bottom: 0; }
 
