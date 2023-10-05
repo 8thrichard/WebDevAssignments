@@ -17,12 +17,39 @@ header { background-color: #002171;
 }
 
 nav { background-color: #BBDEFB;
-    text-decoration: none ; }
+    text-decoration: none ;
+    font-weight: bold; }
 
-h1  { margin-bottom: 0; }
+nav a {
+    text-decoration: none;
+}
+
+
+h1, h2 , h3 {
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+h3 {
+    color: #000333;
+}
+
+ul {list-style-image: url(/Chapter4_starterForCh5/marker.gif);}
+
+h1  { margin-bottom: 0; 
+}
 
 h2  { color: #1976D2; }
 
+footer { font-size:75%;
+    font-style: italic;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
 dt  { color: #002177; }
 
-.resort { color: #1976D2; }
+.resort { color: #1976D2;
+        font-weight: bold;
+}
+
+#contact {font-size: 90%;}
