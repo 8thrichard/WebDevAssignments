@@ -1,8 +1,6 @@
 /*Richard Boamah*/
 /*Yoga Chapter 5 Yoga*/
 
-
-
 body { background-color: #F5F5F5;
        color: #40407A; 
        font-family: Verdana, Arial, 'sans sherif';
@@ -12,14 +10,22 @@ header { background-color: #80CBC4;
        background-image: url(/Chapter5_yoga/lilyheader.jpg);
        background-repeat: no-repeat;
        background-position: right;
- }
+}
 
- nav a { text-decoration: none; }
+nav {
+       text-align: center;
+}
+nav a { text-decoration: none; 
+font-weight: bold;}
 
 h1 { line-height: 400%;
-       text-indent: 1em;}
+text-indent: 1em;}
+
+ul li , dl dd {
+       font-size: 90%;
+}
 
 footer { background-color: #80CBC4; 
        font-size: 75%;
-       font-style: sitalic;
+       font-style: italic;
        text-align: center;}
